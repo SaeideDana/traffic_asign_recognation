@@ -1,0 +1,24 @@
+# Python
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Data
+data/
+datasets/
+
+# Models
+checkpoints/
+*.pth
+*.pt
+*.safetensors
+*.keras
+*.h5
+
+# Secrets
+.env
+kaggle.json
+
+# macOS
+.DS_Store
