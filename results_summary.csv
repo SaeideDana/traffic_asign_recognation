@@ -1,0 +1,10 @@
+Methode,Test-Acc Ø (%),Std (%),Fehler Ø,Recall Schnee Ø (%)
+Altes Modell (Notebook v1),94.95,,638.0,
+Baseline (32px),98.99,0.02,127.67,85.78
+A: Equalize (32px),98.98,0.18,129.0,98.44
+C: 48px,98.85,0.17,145.33,91.56
+Ens. Baseline + Baseline,99.17,0.08,104.67,84.0
+Ens. Baseline + A,99.49,0.09,64.0,97.33
+Ens. Baseline + C48,99.22,0.18,98.33,89.56
+Ens. A + C48,99.41,0.06,74.0,99.11
+Ens. Baseline + A + C48,99.46,0.05,68.67,94.44
